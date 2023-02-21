@@ -1,3 +1,9 @@
+/* Code displays the implementation of multiple algo's to create a tideman voiting system. Pulled from an assignment of Harvard's CS50 
+for reading purposes ONLY */ 
+
+
+
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
