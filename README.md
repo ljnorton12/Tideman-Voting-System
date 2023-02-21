@@ -1,7 +1,9 @@
 /* Hello, AirBnb!
-This code displays the implementation of multiple algo's to create a tideman voting system. Pulled from an assignment of Harvard's CS50.
-Throughout this course i've learned some foundation for proper syntax, arrays, memory , and data structures-  putting this challenging but fun course on hold to begin odin project (6 hrs a day minimum) to become a better fit for your program!
-for reading purposes ONLY */ 
+This code displays the implementation of multiple algo's to create a tideman voting system. 
+Pulled from an assignment of Harvard's CS50.
+Throughout this course i've learned some foundation for proper syntax, arrays, memory , and data structures.  
+Putting this challenging but fun course on hold to begin odin project (6 hrs a day minimum) to become a better fit for your program!
+For reading purposes ONLY */ 
 
 
 
